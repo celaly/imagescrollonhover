@@ -1,0 +1,32 @@
+body {
+	background: #f8f8f8;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: arial;
+
+}
+.container {
+	align-items: center;
+	width: 1200px;
+	display: flex;
+	justify-content: center;
+
+}
+.container .boxImgOne {
+	background: #000;
+	width: 600px;
+	border-radius: 0.725rem;
+	min-height: 400px;
+	transition: ease-in 5s;
+}
+.container .boxImgOne {
+	background: url("img.png");
+	background-size: cover;
+}
+.container .boxImgOne:hover {
+	background-position: bottom;
+}
