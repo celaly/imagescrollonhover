@@ -1,1 +1,3 @@
-<iframe src="https://egitim.sofixa.com/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<div style="width:100%;display:flex;justify-content:center;">
+<img src="https://cdn.sofixa.com/sofixacom/gereksiz/9e424bbca965a2c406b9ac411e474f04.png">
+</div>
